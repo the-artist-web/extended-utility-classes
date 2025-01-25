@@ -48,9 +48,6 @@ Classes are available for different screen sizes using the following breakpoints
 ### Bootstrap Compatibility
 This file is designed to be used alongside Bootstrap, extending its functionality while maintaining its structure and naming conventions. All classes are compatible and work seamlessly with Bootstrap's default classes.
 
-### !important
-All styles in this file include the `!important` flag to ensure higher specificity, making it ideal for overriding default styles when needed.
-
 ## How to Use
 1. Link the CSS file to your project after including Bootstrap:
    ```html
