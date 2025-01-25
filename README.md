@@ -52,7 +52,7 @@ This file is designed to be used alongside Bootstrap, extending its functionalit
 1. Link the CSS file to your project after including Bootstrap:
    ```html
    <link rel="stylesheet" href="bootstrap.min.css">
-   <link rel="stylesheet" href="extended-utility-classes.css">
+   <link rel="stylesheet" href="extended-utility-classes.min.css">
    ```
 2. Use the classes in your HTML as needed, just like you would with Bootstrap.
 
