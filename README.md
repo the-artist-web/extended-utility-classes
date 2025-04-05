@@ -26,11 +26,13 @@ This CSS file provides an extensive set of utility classes designed to complemen
 - `.w-auto`: Sets the width to auto.
 - `.w-full`: Sets the width to 100%.
 - `.w-{value}px`: Sets the width to `{value}` pixels.
-- `.max-w-{value}px`: Sets the max-width to `{value}` pixels.
+- `.max-w-{value}px`: Sets the max-width to `{value}` pixels.- 
+- `.min-w-{value}px`: Sets the min-width to `{value}` pixels.
 - `.h-auto`: Sets the height to auto.
 - `.h-full`: Sets the height to 100%.
 - `.h-{value}px`: Sets the height to `{value}` pixels.
-- `.max-h-{value}px`: Sets the max-height to `{value}` pixels.
+- `.max-h-{value}px`: Sets the max-height to `{value}` pixels.- 
+- `.min-h-{value}px`: Sets the min-height to `{value}` pixels.
 
 ### Responsive Media Queries
 Classes are available for different screen sizes using the following breakpoints:
